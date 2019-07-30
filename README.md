@@ -57,7 +57,7 @@ HTML stands for Hyper Text Markup Language. It's not technically a coding 'langu
 
 Most HTML elements have an opening tag and a closing tag. For instance:
 
-- paragraph: `<p>Hello!</p>
+- paragraph: `<p>Hello!</p>`
 - headers (h1 through h6): `<h1>This is a top-level header.</h1>`
 - navigation bars: `<nav>I would put some nav elements here.</nav>`
 - divs, or block dividers: `<div>I can put a whole lot of other elements in here!</div>`
@@ -129,9 +129,9 @@ There are also built-in colors, but you can use any hex number or RGB(A) color, 
 
 ### Javascript
 
-Now we're getting into real programming!
-
 While HTML and CSS are standard for all websites (there are no alternatives), Javascript is one of many coding languages that developers use. However, it is arguably the most popular language for developing front-end sites.
+
+Let's take a look at [ESPN's website](https://www.espn.com/). What elements on the page are HTML? CSS? Now, what else is going on? Let's try disabling Javascript on the page and seeing what happens to the functionality.
 
 Coding in 'vanilla' Javascript, i.e. using pure HTML, CSS, and Javascript, can be a really nice way to build sites. However, frameworks like React and Angular are also gaining popularity.
 
@@ -140,6 +140,4 @@ In our codealong, I will show you some basic implementation of Javascript on a w
 
 ## THANK YOU and please reach out to me if you have any questions!
 
-
 (thank you to [Britney Jo Ludkowski](https://git.generalassemb.ly/britneyjolud) for some parts of this repo)
-
