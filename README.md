@@ -16,7 +16,7 @@ Let's say we were to go to https://www.google.com. That address is really an ali
 
 Here's the basic process:
 
-- You, the user, types google.com into your browser's address bar
+- You type www.google.com into your browser's address bar
 - The browser sends an HTTP request to a DNS server
 - The DNS server looks for a server that has a big list of all .com websites and sends us the IP address of that server. An IP address is a series of digits that act just like a physical street address.
 - Now that we're in the .com server, they send us to yet another server that will send us to a more specific DNS server that, for example, maybe contains only websites that start with the letters E through K.
@@ -29,7 +29,9 @@ Here's the basic process:
 
 
 
+## A Website is Like a House
 
+I like the metaphor used in [this article](https://generalassemb.ly/blog/website-is-like-a-house/).
 
 
 
@@ -42,7 +44,7 @@ HTML stands for Hyper Text Markup Language. It's not technically a coding 'langu
 
 ### CSS
 
- <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="css" width="400"/>
+<img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" alt="css" width="400"/>
 
 
 CSS stands for Cascading Style Sheets. While also not technically a coding language, it is something that developers must become comfortable with 
@@ -50,9 +52,15 @@ CSS stands for Cascading Style Sheets. While also not technically a coding langu
 [Here's](http://www.brokenlandbar.com/) an example of a website with hardly any CSS.
 
 
+Box Model:
+
+![](https://www.topalovich.com/wp-content/uploads/2017/09/Box_Model.png)
+
+
 
 [Fonts](https://fonts.google.com/)
 [Colors](https://htmlcolorcodes.com/color-picker/)
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 
